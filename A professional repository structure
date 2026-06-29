@@ -1,0 +1,19 @@
+modern-ecommerce/
+│
+├── README.md
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── ARCHITECTURE.md
+├── FEATURES.md
+├── PROJECT_ROADMAP.md
+├── SECURITY.md
+├── DEPLOYMENT.md
+├── TODO.md
+├── LICENSE
+├── .gitignore
+├── package.json
+├── tsconfig.json
+├── next.config.js
+├── prisma/
+├── src/
+└── public/
